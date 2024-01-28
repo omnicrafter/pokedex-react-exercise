@@ -1,0 +1,18 @@
+.PokecardContainer {
+  background: lightgray;
+  width: 250px;
+  height: 300px;
+  border-radius: 20px;
+  margin: 5px;
+}
+.PokecardTitle {
+  text-align: center;
+  color: blue;
+}
+.PokecardImg {
+  display: block;
+  margin: auto;
+}
+.PokecardStat {
+  text-align: center;
+}
